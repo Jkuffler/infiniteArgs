@@ -1,0 +1,1 @@
+.js contains a simple way of adding as many ints as you want
